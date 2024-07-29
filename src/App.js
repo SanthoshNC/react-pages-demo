@@ -9,7 +9,7 @@ function App() {
         <p>
           Name: Santhosh NC <br/>
           Department: CSE <br/>
-          Register Number: 1214214 <br/>
+          Register Number: 1214114/1214192 <br/>
           email: ncsanthosh7@gmail.com <br/>
         </p>
         <a
